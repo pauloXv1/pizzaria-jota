@@ -1,0 +1,47 @@
+body{
+    background-image: url(https://img.freepik.com/vetores-premium/fundo-abstrato-branco-e-cinza_528453-23.jpg?w=2000);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    display: flex;
+
+}
+
+fieldset{
+    background-color: #222222;
+    position: absolute;
+    padding: 40px;
+    color: white;
+
+    border: none;
+    border-radius: 8px;
+
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.enviar{
+    background-color: rgb(0, 183, 255);
+    color: white;
+
+    padding: 9px;
+    border: none;
+    border-radius: 5px;
+}
+a{
+    position: relative;
+    color: white;
+}
+table{
+    background-color: #222222;
+    color: white;
+
+    margin-top: 40%;
+    position: relative;
+    left: 100px;
+}
+
+table>tr{
+    border: none;
+}

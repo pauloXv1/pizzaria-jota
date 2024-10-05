@@ -1,0 +1,25 @@
+body{
+    background-image: url(https://img.freepik.com/vetores-premium/fundo-abstrato-branco-e-cinza_528453-23.jpg?w=2000);
+    
+
+
+}
+h1{
+    text-align: center;
+}
+.principal{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+.produto{
+    background-color: #222222;
+    color: white;
+    width: 300px;
+    height:250px;
+    text-align: center;
+    margin: 20px;
+
+    border-radius: 10px;
+}
